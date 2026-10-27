@@ -1,0 +1,29 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+sqlalchemy>=2.0
+alembic>=1.13
+pymysql>=1.1
+cryptography>=42
+python-multipart>=0.0.9
+python-dotenv>=1.0
+pydantic[email]>=2.7
+pyjwt>=2.8
+bcrypt>=4.1
+httpx>=0.27
+anthropic>=0.40
+rapidfuzz>=3.9
+pdfplumber>=0.11
+openpyxl>=3.1
+reportlab>=4
+stripe>=12
+# Windows pe timezone data (Australia/Sydney etc.)
+tzdata>=2024.1
+# Production queue (Linux server). Windows local pe zaroorat nahi.
+redis>=5
+rq>=1.16
+Pillow>=10          # product images resize / thumbnail
+python-barcode>=0.15   # product barcode SVG (EAN-13 / UPC / Code128)
+qrcode>=7.4         # product QR code SVG
+
+# tests
+pytest>=8

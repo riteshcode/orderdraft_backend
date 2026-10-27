@@ -1,0 +1,7 @@
+{
+  "FromFull": {"Email": "staff@freshfarms.com.au", "Name": "Fresh Farms Staff"},
+  "ToFull": [{"Email": "freshfarms@orders.yourapp.com", "MailboxHash": ""}],
+  "Subject": "Fwd: Order for tomorrow",
+  "TextBody": "---------- Forwarded message ---------\nFrom: Joe <orders@joescafe.com.au>\nDate: Fri, 16 Oct 2026 at 9:42 pm\nSubject: Order for tomorrow\n\nHi team,\n\nCan we please get for tomorrow morning:\n2 box romas\n6 cos\n1 tray avos\n3 bunch parsley\n\nPlease leave at back door.\nCheers,\nJoe\nJoe's Cafe Bondi",
+  "Attachments": []
+}

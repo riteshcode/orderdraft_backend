@@ -1,0 +1,8 @@
+Category,Parent,Description,Sort order,Active
+Fruit,,Fresh seasonal fruit,1,yes
+Citrus,Fruit,"Lemons, limes, oranges",1,yes
+Berries,Fruit,,2,yes
+Vegetables,,,2,yes
+Leafy greens,Vegetables,"Lettuce, spinach, kale",,yes
+Herbs/Spices,,Fresh herbs and dried spices,3,yes
+Dairy > Cheese,,Imported and local cheese,,yes
